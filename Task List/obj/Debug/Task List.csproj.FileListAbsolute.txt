@@ -1,0 +1,10 @@
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\bin\Debug\Task List.exe.config
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\bin\Debug\Task List.exe
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\bin\Debug\Task List.pdb
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task List.csprojAssemblyReference.cache
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task_List.Form1.resources
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task_List.Properties.Resources.resources
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task List.csproj.GenerateResource.cache
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task List.csproj.CoreCompileInputs.cache
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task List.exe
+C:\Users\Heath\Documents\CIS150-W01\Homework\Task List\Task List\obj\Debug\Task List.pdb
